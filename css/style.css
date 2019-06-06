@@ -68,6 +68,7 @@ section.home-content a:hover {
 section.services {
   height: 60vh;
   background-color: #8c654c;
+  padding-top: 20px;
 }
 
 section.services h1 {
